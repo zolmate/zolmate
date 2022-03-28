@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zolmate
-- 👀 I’m interested in frontend development and 3D modeling
+- 👀 I’m interested in frontend development and 3D modeling/animation
 - 🌱 I’m currently learning Maya + html, css and javascript on the side
 - 💞️ I’m looking to collaborate on any kind of beginner-friendly projects
 
